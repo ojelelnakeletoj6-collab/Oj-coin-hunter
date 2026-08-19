@@ -1,0 +1,10 @@
+{
+  "name": "OJ Coin Hunter",
+  "short_name": "OJ Coin Hunter",
+  "description": "Catch the coins. Escape the aliens!",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111111",
+  "theme_color": "#20c997"
+}
